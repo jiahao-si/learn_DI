@@ -1,0 +1,23 @@
+{
+  "name": "learn_di",
+  "version": "1.0.0",
+  "description": "nest.js 控制反转（IOC）和 依赖注入（ DI） 的简单实现",
+  "main": "index.js",
+  "scripts": {
+    "start": " npx ts-node   index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahao-si/learn_DI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiahao-si/learn_DI/issues"
+  },
+  "homepage": "https://github.com/jiahao-si/learn_DI#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
